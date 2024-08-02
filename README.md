@@ -1,4 +1,4 @@
-# DoIT
+# iDoIT
 iOS native app
 
 #
